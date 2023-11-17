@@ -61,4 +61,5 @@ Here are some general steps we might consider:
 8.Deployment (Optional):
    -If applicable, deploy your trained model for making predictions on new, unseen data.
 
-Source of Database : <https://www.kaggle.com/datasets/ruchi798/ionosphere-radar-returns/>
+Source of the Database : <https://www.kaggle.com/datasets/ruchi798/ionosphere-radar-returns/>
+Source of the Article : <https://www.jstage.jst.go.jp/article/psycholres1954/9/2/9_2_70/_pdf>
